@@ -5,7 +5,7 @@ namespace Entity.Behaviour
 {
     public class Movement : MonoBehaviour
     {
-        [SerializeField] private float speed = 5f;
+        [SerializeField] private float speed = 25f;
 
         private void Update()
         {
